@@ -1,1 +1,3 @@
-My name is emma and I like sushi
+Name: Emma Johnson 
+v- account: v-emmjohnson
+food: sushi
